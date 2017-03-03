@@ -1,0 +1,11 @@
+base
+lattice
+ggplot2
+caret
+rpart
+rpart.plot
+randomForest
+corrplot
+rattle
+reshape2
+knitr
