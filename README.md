@@ -8,17 +8,9 @@ Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible t
   
 The goal of this project, is to use data from accelerometers on the belt, forearm, arm, and dumbell of 6 participants to predict if they performed the activity correctly or incorrectly in 5 different ways (variable "classe"). Class A corresponds to the specified execution of the exercise, while the other 4 classes correspond to common mistakes.  
   
-## Data  
+## Project Report - HTML in gh-pages
   
-The training data used for this analysis is available [here](https://d396qusza40orc.cloudfront.net/predmachlearn/pml-training.csv)  
-  
-The test data used for this analysis is available [here](https://d396qusza40orc.cloudfront.net/predmachlearn/pml-testing.csv)  
-  
-The documentation for this analysis is available [here](http://groupware.les.inf.puc-rio.br/har#ixzz4aEDRLc7c)  
-    
-## Project Report
-  
-For the project report please open [this GitHub link](http://)   
+For the project report please open [this GitHub link](https://rameshramiah.github.io/PML/)   
   
 The HTML file is in gh-pages branch.  
 The R markdown file (RMD) is in the master branch.  
